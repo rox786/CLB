@@ -1,2 +1,2 @@
-# CLB
-Sistema para club loto blanco
+# Templo del Dharma
+Sistema de control estudiantil
